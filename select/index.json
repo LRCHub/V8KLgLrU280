@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "何なんw",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2025-12-07T18:05:53.698415Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "何なんw",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_何なんw_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "何なんw",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_何なんw_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "何なんw",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_何なんw_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "何なんw",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_03_何なんw_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "何なんw",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_04_何なんw_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "何なんw",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_05_何なんw_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "何なんw",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_06_何なんw_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "何なんw",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_07_何なんw_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "何なんw",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_08_何なんw_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "何なんw",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_09_何なんw_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "何なんw (Fujii Kaze Stadium Live \"Feelin' Good\")",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_10_何なんw_(Fujii_Kaze_Stadium_Live__Feelin'_Good_)_藤井_風.txt"
+    }
+  ]
+}
